@@ -1,0 +1,9 @@
+1. TERMINAL
+ros2 run turtlesim turtlesim_node
+
+2. TERMINAL
+ros2 run turtlesim turtle_teleop_key
+
+3. TERMINAL 
+cd ~/ros2_ws
+ros2 run turtle_chase game_node
